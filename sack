@@ -553,4 +553,4 @@ else
     echo ""
 fi
 
-create_shortcut_cmd
+# create_shortcut_cmd
